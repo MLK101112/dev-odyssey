@@ -1,0 +1,85 @@
+name: Daily Activity & Learning Log Builder
+
+on:
+  schedule:
+    - cron: "30 4 * * *"   # 10:00 AM IST (04:30 UTC)
+    - cron: "30 8 * * *"   # 02:00 PM IST (08:30 UTC)
+    - cron: "30 13 * * *"  # 07:00 PM IST (13:30 UTC)
+    - cron: "30 16 * * *"  # 10:00 PM IST (16:30 UTC)
+  workflow_dispatch:
+    inputs:
+      custom_topic:
+        description: "Custom study topic (optional, leave blank for auto-rotation)"
+        required: false
+        type: string
+        default: ""
+      custom_session:
+        description: "Custom session label (e.g. Morning, Afternoon, Evening, Night)"
+        required: false
+        type: string
+        default: ""
+      dry_run:
+        description: "Dry run (test generation without committing/pushing)"
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-log:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Configure Git Identity
+        env:
+          USER_NAME: ${{ secrets.GIT_USER_NAME || vars.GIT_USER_NAME || github.actor }}
+          USER_EMAIL: ${{ secrets.GIT_USER_EMAIL || vars.GIT_USER_EMAIL || format('{0}@users.noreply.github.com', github.actor) }}
+        run: |
+          git config user.name "$USER_NAME"
+          git config user.email "$USER_EMAIL"
+          echo "Configured git user: $USER_NAME <$USER_EMAIL>"
+
+      - name: Generate Daily Activity & Learning Log
+        id: generator
+        env:
+          INPUT_TOPIC: ${{ inputs.custom_topic }}
+          INPUT_SESSION: ${{ inputs.custom_session }}
+          IS_DRY_RUN: ${{ inputs.dry_run }}
+        run: |
+          python scripts/generate_log.py \
+            ${INPUT_TOPIC:+--topic "$INPUT_TOPIC"} \
+            ${INPUT_SESSION:+--session "$INPUT_SESSION"} \
+            ${IS_DRY_RUN:+--dry-run}
+
+      - name: Commit and Push Changes
+        if: ${{ !(inputs.dry_run) }}
+        run: |
+          git add activity.txt learning-log.md
+
+          if git diff --staged --quiet; then
+            echo "No changes detected to commit."
+            exit 0
+          fi
+
+          if [ -f /tmp/commit_msg.txt ]; then
+            COMMIT_MSG=$(cat /tmp/commit_msg.txt)
+          else
+            COMMIT_MSG="docs(learning): update daily activity and study log [skip ci]"
+          fi
+
+          echo "Committing with message: $COMMIT_MSG"
+          git commit -m "$COMMIT_MSG"
+          git push origin HEAD:${{ github.ref_name || 'main' }}
