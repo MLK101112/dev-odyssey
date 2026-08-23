@@ -1,6 +1,6 @@
-# 🚀 GitHub Builder — Daily Activity & Learning Log Automation
+# 🚀 dev-odyssey — Daily Activity & Learning Log Automation
 
-[![Daily Activity & Learning Log Builder](https://github.com/USERNAME/REPO_NAME/actions/workflows/daily-update.yml/badge.svg)](https://github.com/USERNAME/REPO_NAME/actions/workflows/daily-update.yml)
+[![Daily Activity & Learning Log Builder](https://github.com/MLK101112/dev-odyssey/actions/workflows/daily-update.yml/badge.svg)](https://github.com/MLK101112/dev-odyssey/actions/workflows/daily-update.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-brightgreen.svg)](https://www.python.org/)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
@@ -60,7 +60,7 @@ git commit -m "feat: initial repository setup for github builder"
 git branch -M main
 
 # 4. Link your remote GitHub repository
-git remote add origin https://github.com/<YOUR_GITHUB_USERNAME>/<YOUR_REPO_NAME>.git
+git remote add origin https://github.com/MLK101112/dev-odyssey.git
 
 # 5. Push to GitHub
 git push -u origin main
