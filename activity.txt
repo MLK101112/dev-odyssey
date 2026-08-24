@@ -1,1 +1,1 @@
-Last updated: 2026-08-24 05:09:53 UTC | Session: Night Deep-Dive (03:30 AM IST) | Track: [Full-Stack & Cloud Architecture] High-Performance API Design with FastAPI and Pydantic V2
+Last updated: 2026-08-24 09:10:12 UTC | Session: Morning Study Session (10:00 AM IST) | Track: [DevOps & Infrastructure] Cloud-Native Service Mesh Architecture with Istio & Envoy Proxy
