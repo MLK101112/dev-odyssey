@@ -89,3 +89,18 @@
 - Compiled summary takeaways and curated reference resources for future reference.
 
 > *Session completed at 17:03:55 UTC*
+
+---
+
+### 📌 2026-08-25 — Night Deep-Dive (03:30 AM IST)
+
+- **Domain Track:** `DevOps & Infrastructure`
+- **Primary Focus:** **Docker Multi-Stage Builds, Layer Caching, and Distroless Images**
+
+#### Key Milestones & Takeaways
+- Configured environment configurations and automated integration workflows.
+- Conducted profiling session to identify memory leaks and I/O bottlenecks.
+- Documented key findings, architecture decision records (ADR), and migration steps.
+- Structured reproducible example repository with step-by-step verification commands.
+
+> *Session completed at 05:02:51 UTC*

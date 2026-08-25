@@ -1,1 +1,1 @@
-Last updated: 2026-08-24 17:03:55 UTC | Session: Evening Review & Build (07:00 PM IST) | Track: [AI & Machine Learning] Model Quantization, Pruning, and ONNX Runtime Acceleration
+Last updated: 2026-08-25 05:02:51 UTC | Session: Night Deep-Dive (03:30 AM IST) | Track: [DevOps & Infrastructure] Docker Multi-Stage Builds, Layer Caching, and Distroless Images
