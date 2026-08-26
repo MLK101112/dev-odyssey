@@ -1,1 +1,1 @@
-Last updated: 2026-08-26 05:03:36 UTC | Session: Night Deep-Dive (03:30 AM IST) | Track: [System Design & Algorithms] Lock-Free Concurrency & Atomic Operations in Multi-Threaded Systems
+Last updated: 2026-08-26 09:08:00 UTC | Session: Morning Study Session (10:00 AM IST) | Track: [AI & Machine Learning] Deep Reinforcement Learning & Policy Gradient Methods
