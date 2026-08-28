@@ -1,1 +1,1 @@
-Last updated: 2026-08-28 01:01:48 UTC | Session: Night Deep-Dive (03:30 AM IST) | Track: [AI & Machine Learning] RAG (Retrieval-Augmented Generation) with Vector DBs & Hybrid Search
+Last updated: 2026-08-28 16:46:51 UTC | Session: Afternoon Coding Sprint (02:00 PM IST) | Track: [AI & Machine Learning] Graph Neural Networks (GNNs) for Relational Data Modeling
