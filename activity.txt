@@ -1,1 +1,1 @@
-Last updated: 2026-08-29 17:20:28 UTC | Session: Evening Review & Build (07:00 PM IST) | Track: [Full-Stack & Cloud Architecture] Distributed Microservices Design with gRPC and Protocol Buffers
+Last updated: 2026-08-29 19:27:15 UTC | Session: Evening Review & Build (07:00 PM IST) | Track: [Full-Stack & Cloud Architecture] Event-Driven Architecture with Apache Kafka & Event Sourcing
