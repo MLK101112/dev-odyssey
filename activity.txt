@@ -1,1 +1,1 @@
-Last updated: 2026-08-29 00:36:19 UTC | Session: Night Deep-Dive (03:30 AM IST) | Track: [Full-Stack & Cloud Architecture] High-Performance API Design with FastAPI and Pydantic V2
+Last updated: 2026-08-29 11:16:39 UTC | Session: Morning Study Session (10:00 AM IST) | Track: [System Design & Algorithms] Segment Trees with Lazy Propagation & Range Query Optimizations

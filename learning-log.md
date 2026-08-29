@@ -329,3 +329,18 @@
 - Refactored legacy modules for reduced time complexity and cleaner separation of concerns.
 
 > *Session completed at 00:36:19 UTC*
+
+---
+
+### 📌 2026-08-29 — Morning Study Session (10:00 AM IST)
+
+- **Domain Track:** `System Design & Algorithms`
+- **Primary Focus:** **Segment Trees with Lazy Propagation & Range Query Optimizations**
+
+#### Key Milestones & Takeaways
+- Configured environment configurations and automated integration workflows.
+- Conducted profiling session to identify memory leaks and I/O bottlenecks.
+- Documented key findings, architecture decision records (ADR), and migration steps.
+- Structured reproducible example repository with step-by-step verification commands.
+
+> *Session completed at 11:16:39 UTC*
