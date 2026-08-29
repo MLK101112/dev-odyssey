@@ -1,1 +1,1 @@
-Last updated: 2026-08-29 11:16:39 UTC | Session: Morning Study Session (10:00 AM IST) | Track: [System Design & Algorithms] Segment Trees with Lazy Propagation & Range Query Optimizations
+Last updated: 2026-08-29 13:53:07 UTC | Session: Afternoon Coding Sprint (02:00 PM IST) | Track: [AI & Machine Learning] Graph Neural Networks (GNNs) for Relational Data Modeling
