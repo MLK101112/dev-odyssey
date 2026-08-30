@@ -389,3 +389,18 @@
 - Benchmarked performance metrics against baseline implementations.
 
 > *Session completed at 19:27:15 UTC*
+
+---
+
+### 📌 2026-08-30 — Morning Study Session (10:00 AM IST)
+
+- **Domain Track:** `AI & Machine Learning`
+- **Primary Focus:** **Graph Neural Networks (GNNs) for Relational Data Modeling**
+
+#### Key Milestones & Takeaways
+- Configured environment configurations and automated integration workflows.
+- Conducted profiling session to identify memory leaks and I/O bottlenecks.
+- Documented key findings, architecture decision records (ADR), and migration steps.
+- Structured reproducible example repository with step-by-step verification commands.
+
+> *Session completed at 10:01:56 UTC*
