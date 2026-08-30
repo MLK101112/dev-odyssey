@@ -1,1 +1,1 @@
-Last updated: 2026-08-30 10:01:56 UTC | Session: Morning Study Session (10:00 AM IST) | Track: [AI & Machine Learning] Graph Neural Networks (GNNs) for Relational Data Modeling
+Last updated: 2026-08-30 13:51:47 UTC | Session: Afternoon Coding Sprint (02:00 PM IST) | Track: [Full-Stack & Cloud Architecture] Zero-Trust Cloud Security, IAM Least Privilege, and OAuth2/OIDC
