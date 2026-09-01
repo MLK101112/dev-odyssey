@@ -509,3 +509,18 @@
 - Outlined actionable next steps for the upcoming technical milestone.
 
 > *Session completed at 21:32:31 UTC*
+
+---
+
+### 📌 2026-09-01 — Morning Study Session (10:00 AM IST)
+
+- **Domain Track:** `DevOps & Infrastructure`
+- **Primary Focus:** **Cloud-Native Service Mesh Architecture with Istio & Envoy Proxy**
+
+#### Key Milestones & Takeaways
+- Completed hands-on coding drills exploring multi-threaded and asynchronous patterns.
+- Validated schema migrations and backward compatibility across versions.
+- Optimized algorithmic efficiency from O(N^2) to O(N log N) using tailored data structures.
+- Compiled summary takeaways and curated reference resources for future reference.
+
+> *Session completed at 09:31:24 UTC*

@@ -1,1 +1,1 @@
-Last updated: 2026-08-31 21:32:31 UTC | Session: Night Research & Practice (10:00 PM IST) | Track: [AI & Machine Learning] Transformer Architecture & Multi-Head Self-Attention Mechanisms
+Last updated: 2026-09-01 09:31:24 UTC | Session: Morning Study Session (10:00 AM IST) | Track: [DevOps & Infrastructure] Cloud-Native Service Mesh Architecture with Istio & Envoy Proxy
