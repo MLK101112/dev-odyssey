@@ -1,1 +1,1 @@
-Last updated: 2026-09-03 17:07:47 UTC | Session: Evening Review & Build (07:00 PM IST) | Track: [DevOps & Infrastructure] Prometheus Metrics Exporters, Alertmanager & Grafana Dashboarding
+Last updated: 2026-09-03 19:21:11 UTC | Session: Evening Review & Build (07:00 PM IST) | Track: [DevOps & Infrastructure] Cloud-Native Service Mesh Architecture with Istio & Envoy Proxy
