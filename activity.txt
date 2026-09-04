@@ -1,1 +1,1 @@
-Last updated: 2026-09-04 12:48:11 UTC | Session: Afternoon Coding Sprint (02:00 PM IST) | Track: [DevOps & Infrastructure] Terraform Infrastructure as Code (IaC) & State Locking with S3/DynamoDB
+Last updated: 2026-09-04 16:59:26 UTC | Session: Afternoon Coding Sprint (02:00 PM IST) | Track: [System Design & Algorithms] Advanced Graph Theory: Strongly Connected Components (Tarjan's/Kosaraju's)
