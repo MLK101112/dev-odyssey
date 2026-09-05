@@ -1,1 +1,1 @@
-Last updated: 2026-09-05 16:11:51 UTC | Session: Afternoon Coding Sprint (02:00 PM IST) | Track: [AI & Machine Learning] Transformer Architecture & Multi-Head Self-Attention Mechanisms
+Last updated: 2026-09-05 18:28:32 UTC | Session: Evening Review & Build (07:00 PM IST) | Track: [AI & Machine Learning] Fine-tuning Large Language Models with LoRA and QLoRA
