@@ -764,3 +764,18 @@
 - Refactored legacy modules for reduced time complexity and cleaner separation of concerns.
 
 > *Session completed at 08:27:30 UTC*
+
+---
+
+### 📌 2026-09-05 — Morning Study Session (10:00 AM IST)
+
+- **Domain Track:** `DevOps & Infrastructure`
+- **Primary Focus:** **Prometheus Metrics Exporters, Alertmanager & Grafana Dashboarding**
+
+#### Key Milestones & Takeaways
+- Evaluated tradeoffs between consistency, availability, and partition tolerance.
+- Constructed end-to-end integration test harness simulating network partitions.
+- Cleaned up redundant dependencies, tightened type annotations, and formatted codebase.
+- Outlined actionable next steps for the upcoming technical milestone.
+
+> *Session completed at 11:52:56 UTC*

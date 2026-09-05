@@ -1,1 +1,1 @@
-Last updated: 2026-09-05 08:27:30 UTC | Session: Morning Study Session (10:00 AM IST) | Track: [DevOps & Infrastructure] Kubernetes Operator Pattern & Custom Resource Definitions (CRDs)
+Last updated: 2026-09-05 11:52:56 UTC | Session: Morning Study Session (10:00 AM IST) | Track: [DevOps & Infrastructure] Prometheus Metrics Exporters, Alertmanager & Grafana Dashboarding
