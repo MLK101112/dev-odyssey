@@ -809,3 +809,18 @@
 - Refactored legacy modules for reduced time complexity and cleaner separation of concerns.
 
 > *Session completed at 18:28:32 UTC*
+
+---
+
+### 📌 2026-09-06 — Morning Study Session (10:00 AM IST)
+
+- **Domain Track:** `System Design & Algorithms`
+- **Primary Focus:** **LSM-Tree Storage Engines vs B+ Trees in Modern Key-Value Stores**
+
+#### Key Milestones & Takeaways
+- Configured environment configurations and automated integration workflows.
+- Conducted profiling session to identify memory leaks and I/O bottlenecks.
+- Documented key findings, architecture decision records (ADR), and migration steps.
+- Structured reproducible example repository with step-by-step verification commands.
+
+> *Session completed at 08:45:41 UTC*
