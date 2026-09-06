@@ -1,1 +1,1 @@
-Last updated: 2026-09-06 08:45:41 UTC | Session: Morning Study Session (10:00 AM IST) | Track: [System Design & Algorithms] LSM-Tree Storage Engines vs B+ Trees in Modern Key-Value Stores
+Last updated: 2026-09-06 12:12:29 UTC | Session: Afternoon Coding Sprint (02:00 PM IST) | Track: [AI & Machine Learning] PyTorch Custom Autograd Functions & GPU Memory Optimization
