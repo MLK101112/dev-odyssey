@@ -869,3 +869,18 @@
 - Structured reproducible example repository with step-by-step verification commands.
 
 > *Session completed at 18:29:06 UTC*
+
+---
+
+### 📌 2026-09-07 — Morning Study Session (10:00 AM IST)
+
+- **Domain Track:** `AI & Machine Learning`
+- **Primary Focus:** **PyTorch Custom Autograd Functions & GPU Memory Optimization**
+
+#### Key Milestones & Takeaways
+- Evaluated tradeoffs between consistency, availability, and partition tolerance.
+- Constructed end-to-end integration test harness simulating network partitions.
+- Cleaned up redundant dependencies, tightened type annotations, and formatted codebase.
+- Outlined actionable next steps for the upcoming technical milestone.
+
+> *Session completed at 09:32:34 UTC*
