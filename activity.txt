@@ -1,1 +1,1 @@
-Last updated: 2026-09-10 09:02:44 UTC | Session: Morning Study Session (10:00 AM IST) | Track: [System Design & Algorithms] Distributed Consensus Algorithms (Raft & Paxos Mechanics)
+Last updated: 2026-09-10 12:59:02 UTC | Session: Afternoon Coding Sprint (02:00 PM IST) | Track: [AI & Machine Learning] RAG (Retrieval-Augmented Generation) with Vector DBs & Hybrid Search
