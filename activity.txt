@@ -1,1 +1,1 @@
-Last updated: 2026-09-13 13:22:04 UTC | Session: Afternoon Coding Sprint (02:00 PM IST) | Track: [System Design & Algorithms] Advanced Graph Theory: Strongly Connected Components (Tarjan's/Kosaraju's)
+Last updated: 2026-09-13 17:01:52 UTC | Session: Evening Review & Build (07:00 PM IST) | Track: [AI & Machine Learning] Model Quantization, Pruning, and ONNX Runtime Acceleration
