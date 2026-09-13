@@ -1,1 +1,1 @@
-Last updated: 2026-09-13 17:01:52 UTC | Session: Evening Review & Build (07:00 PM IST) | Track: [AI & Machine Learning] Model Quantization, Pruning, and ONNX Runtime Acceleration
+Last updated: 2026-09-13 18:51:26 UTC | Session: Evening Review & Build (07:00 PM IST) | Track: [AI & Machine Learning] Graph Neural Networks (GNNs) for Relational Data Modeling
