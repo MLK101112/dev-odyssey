@@ -1289,3 +1289,18 @@
 - Outlined actionable next steps for the upcoming technical milestone.
 
 > *Session completed at 18:51:26 UTC*
+
+---
+
+### 📌 2026-09-14 — Morning Study Session (10:00 AM IST)
+
+- **Domain Track:** `System Design & Algorithms`
+- **Primary Focus:** **Advanced Graph Theory: Strongly Connected Components (Tarjan's/Kosaraju's)**
+
+#### Key Milestones & Takeaways
+- Configured environment configurations and automated integration workflows.
+- Conducted profiling session to identify memory leaks and I/O bottlenecks.
+- Documented key findings, architecture decision records (ADR), and migration steps.
+- Structured reproducible example repository with step-by-step verification commands.
+
+> *Session completed at 10:01:40 UTC*

@@ -1,1 +1,1 @@
-Last updated: 2026-09-13 18:51:26 UTC | Session: Evening Review & Build (07:00 PM IST) | Track: [AI & Machine Learning] Graph Neural Networks (GNNs) for Relational Data Modeling
+Last updated: 2026-09-14 10:01:40 UTC | Session: Morning Study Session (10:00 AM IST) | Track: [System Design & Algorithms] Advanced Graph Theory: Strongly Connected Components (Tarjan's/Kosaraju's)
