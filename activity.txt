@@ -1,1 +1,1 @@
-Last updated: 2026-09-20 13:06:50 UTC | Session: Afternoon Coding Sprint (02:00 PM IST) | Track: [DevOps & Infrastructure] CI/CD Pipeline Security, Ephemeral Runners & Artifact Attestation
+Last updated: 2026-09-20 16:56:26 UTC | Session: Afternoon Coding Sprint (02:00 PM IST) | Track: [System Design & Algorithms] Advanced Graph Theory: Strongly Connected Components (Tarjan's/Kosaraju's)
