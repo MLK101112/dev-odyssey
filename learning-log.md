@@ -1649,3 +1649,18 @@
 - Benchmarked performance metrics against baseline implementations.
 
 > *Session completed at 18:41:08 UTC*
+
+---
+
+### 📌 2026-09-20 — Morning Study Session (10:00 AM IST)
+
+- **Domain Track:** `Full-Stack & Cloud Architecture`
+- **Primary Focus:** **GraphQL Schema Federation & Apollo Gateway Integration**
+
+#### Key Milestones & Takeaways
+- Configured environment configurations and automated integration workflows.
+- Conducted profiling session to identify memory leaks and I/O bottlenecks.
+- Documented key findings, architecture decision records (ADR), and migration steps.
+- Structured reproducible example repository with step-by-step verification commands.
+
+> *Session completed at 09:23:02 UTC*
