@@ -1949,3 +1949,18 @@
 - Structured reproducible example repository with step-by-step verification commands.
 
 > *Session completed at 20:03:06 UTC*
+
+---
+
+### 📌 2026-09-25 — Morning Study Session (10:00 AM IST)
+
+- **Domain Track:** `DevOps & Infrastructure`
+- **Primary Focus:** **Cloud-Native Service Mesh Architecture with Istio & Envoy Proxy**
+
+#### Key Milestones & Takeaways
+- Configured environment configurations and automated integration workflows.
+- Conducted profiling session to identify memory leaks and I/O bottlenecks.
+- Documented key findings, architecture decision records (ADR), and migration steps.
+- Structured reproducible example repository with step-by-step verification commands.
+
+> *Session completed at 09:42:58 UTC*

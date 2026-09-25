@@ -1,1 +1,1 @@
-Last updated: 2026-09-24 20:03:06 UTC | Session: Evening Review & Build (07:00 PM IST) | Track: [AI & Machine Learning] RAG (Retrieval-Augmented Generation) with Vector DBs & Hybrid Search
+Last updated: 2026-09-25 09:42:58 UTC | Session: Morning Study Session (10:00 AM IST) | Track: [DevOps & Infrastructure] Cloud-Native Service Mesh Architecture with Istio & Envoy Proxy
