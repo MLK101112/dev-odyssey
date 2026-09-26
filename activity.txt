@@ -1,1 +1,1 @@
-Last updated: 2026-09-26 09:27:14 UTC | Session: Morning Study Session (10:00 AM IST) | Track: [System Design & Algorithms] Distributed Consensus Algorithms (Raft & Paxos Mechanics)
+Last updated: 2026-09-26 13:15:06 UTC | Session: Afternoon Coding Sprint (02:00 PM IST) | Track: [AI & Machine Learning] Transformer Architecture & Multi-Head Self-Attention Mechanisms
