@@ -2339,3 +2339,18 @@
 - Structured reproducible example repository with step-by-step verification commands.
 
 > *Session completed at 18:59:08 UTC*
+
+---
+
+### 📌 2026-10-01 — Night Research & Practice (10:00 PM IST)
+
+- **Domain Track:** `System Design & Algorithms`
+- **Primary Focus:** **LSM-Tree Storage Engines vs B+ Trees in Modern Key-Value Stores**
+
+#### Key Milestones & Takeaways
+- Analyzed core theoretical principles and reviewed architectural diagrams.
+- Implemented clean prototype implementation to validate concurrency and performance.
+- Wrote comprehensive unit and integration tests with edge-case coverage.
+- Benchmarked performance metrics against baseline implementations.
+
+> *Session completed at 21:10:20 UTC*
