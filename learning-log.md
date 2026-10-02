@@ -2354,3 +2354,18 @@
 - Benchmarked performance metrics against baseline implementations.
 
 > *Session completed at 21:10:20 UTC*
+
+---
+
+### 📌 2026-10-02 — Morning Study Session (10:00 AM IST)
+
+- **Domain Track:** `Full-Stack & Cloud Architecture`
+- **Primary Focus:** **Advanced PostgreSQL Query Optimization, B-Tree Indexes & EXPLAIN ANALYZE**
+
+#### Key Milestones & Takeaways
+- Analyzed core theoretical principles and reviewed architectural diagrams.
+- Implemented clean prototype implementation to validate concurrency and performance.
+- Wrote comprehensive unit and integration tests with edge-case coverage.
+- Benchmarked performance metrics against baseline implementations.
+
+> *Session completed at 10:37:30 UTC*
