@@ -2474,3 +2474,18 @@
 - Benchmarked performance metrics against baseline implementations.
 
 > *Session completed at 19:20:28 UTC*
+
+---
+
+### 📌 2026-10-04 — Morning Study Session (10:00 AM IST)
+
+- **Domain Track:** `System Design & Algorithms`
+- **Primary Focus:** **Distributed Rate Limiting Algorithms (Token Bucket & Leaky Bucket)**
+
+#### Key Milestones & Takeaways
+- Configured environment configurations and automated integration workflows.
+- Conducted profiling session to identify memory leaks and I/O bottlenecks.
+- Documented key findings, architecture decision records (ADR), and migration steps.
+- Structured reproducible example repository with step-by-step verification commands.
+
+> *Session completed at 10:41:12 UTC*
