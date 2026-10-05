@@ -2534,3 +2534,18 @@
 - Refactored legacy modules for reduced time complexity and cleaner separation of concerns.
 
 > *Session completed at 19:43:47 UTC*
+
+---
+
+### 📌 2026-10-05 — Morning Study Session (10:00 AM IST)
+
+- **Domain Track:** `AI & Machine Learning`
+- **Primary Focus:** **Model Quantization, Pruning, and ONNX Runtime Acceleration**
+
+#### Key Milestones & Takeaways
+- Evaluated tradeoffs between consistency, availability, and partition tolerance.
+- Constructed end-to-end integration test harness simulating network partitions.
+- Cleaned up redundant dependencies, tightened type annotations, and formatted codebase.
+- Outlined actionable next steps for the upcoming technical milestone.
+
+> *Session completed at 11:43:05 UTC*
