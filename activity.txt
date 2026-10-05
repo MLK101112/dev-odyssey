@@ -1,1 +1,1 @@
-Last updated: 2026-10-05 21:12:26 UTC | Session: Night Research & Practice (10:00 PM IST) | Track: [System Design & Algorithms] Lock-Free Concurrency & Atomic Operations in Multi-Threaded Systems
+Last updated: 2026-10-05 22:48:26 UTC | Session: Night Research & Practice (10:00 PM IST) | Track: [System Design & Algorithms] Distributed Consensus Algorithms (Raft & Paxos Mechanics)
