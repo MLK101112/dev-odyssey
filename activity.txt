@@ -1,1 +1,1 @@
-Last updated: 2026-10-05 11:43:05 UTC | Session: Morning Study Session (10:00 AM IST) | Track: [AI & Machine Learning] Model Quantization, Pruning, and ONNX Runtime Acceleration
+Last updated: 2026-10-05 17:15:04 UTC | Session: Evening Review & Build (07:00 PM IST) | Track: [DevOps & Infrastructure] Prometheus Metrics Exporters, Alertmanager & Grafana Dashboarding
