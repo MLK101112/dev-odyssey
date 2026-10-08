@@ -2759,3 +2759,18 @@
 - Benchmarked performance metrics against baseline implementations.
 
 > *Session completed at 19:22:42 UTC*
+
+---
+
+### 📌 2026-10-08 — Night Research & Practice (10:00 PM IST)
+
+- **Domain Track:** `DevOps & Infrastructure`
+- **Primary Focus:** **Kubernetes Operator Pattern & Custom Resource Definitions (CRDs)**
+
+#### Key Milestones & Takeaways
+- Configured environment configurations and automated integration workflows.
+- Conducted profiling session to identify memory leaks and I/O bottlenecks.
+- Documented key findings, architecture decision records (ADR), and migration steps.
+- Structured reproducible example repository with step-by-step verification commands.
+
+> *Session completed at 21:25:02 UTC*
