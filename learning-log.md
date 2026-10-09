@@ -2819,3 +2819,18 @@
 - Benchmarked performance metrics against baseline implementations.
 
 > *Session completed at 18:56:15 UTC*
+
+---
+
+### 📌 2026-10-09 — Night Research & Practice (10:00 PM IST)
+
+- **Domain Track:** `System Design & Algorithms`
+- **Primary Focus:** **LSM-Tree Storage Engines vs B+ Trees in Modern Key-Value Stores**
+
+#### Key Milestones & Takeaways
+- Completed hands-on coding drills exploring multi-threaded and asynchronous patterns.
+- Validated schema migrations and backward compatibility across versions.
+- Optimized algorithmic efficiency from O(N^2) to O(N log N) using tailored data structures.
+- Compiled summary takeaways and curated reference resources for future reference.
+
+> *Session completed at 21:05:11 UTC*
