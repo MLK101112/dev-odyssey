@@ -2834,3 +2834,18 @@
 - Compiled summary takeaways and curated reference resources for future reference.
 
 > *Session completed at 21:05:11 UTC*
+
+---
+
+### 📌 2026-10-10 — Morning Study Session (10:00 AM IST)
+
+- **Domain Track:** `Full-Stack & Cloud Architecture`
+- **Primary Focus:** **Zero-Trust Cloud Security, IAM Least Privilege, and OAuth2/OIDC**
+
+#### Key Milestones & Takeaways
+- Completed hands-on coding drills exploring multi-threaded and asynchronous patterns.
+- Validated schema migrations and backward compatibility across versions.
+- Optimized algorithmic efficiency from O(N^2) to O(N log N) using tailored data structures.
+- Compiled summary takeaways and curated reference resources for future reference.
+
+> *Session completed at 10:43:39 UTC*
