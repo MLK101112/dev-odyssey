@@ -2894,3 +2894,18 @@
 - Compiled summary takeaways and curated reference resources for future reference.
 
 > *Session completed at 20:12:29 UTC*
+
+---
+
+### 📌 2026-10-11 — Morning Study Session (10:00 AM IST)
+
+- **Domain Track:** `DevOps & Infrastructure`
+- **Primary Focus:** **Serverless Microservices with AWS Lambda, EventBridge, and DynamoDB**
+
+#### Key Milestones & Takeaways
+- Evaluated tradeoffs between consistency, availability, and partition tolerance.
+- Constructed end-to-end integration test harness simulating network partitions.
+- Cleaned up redundant dependencies, tightened type annotations, and formatted codebase.
+- Outlined actionable next steps for the upcoming technical milestone.
+
+> *Session completed at 10:56:35 UTC*
