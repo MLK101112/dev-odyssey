@@ -3134,3 +3134,18 @@
 - Structured reproducible example repository with step-by-step verification commands.
 
 > *Session completed at 20:16:19 UTC*
+
+---
+
+### 📌 2026-10-15 — Morning Study Session (10:00 AM IST)
+
+- **Domain Track:** `DevOps & Infrastructure`
+- **Primary Focus:** **Terraform Infrastructure as Code (IaC) & State Locking with S3/DynamoDB**
+
+#### Key Milestones & Takeaways
+- Configured environment configurations and automated integration workflows.
+- Conducted profiling session to identify memory leaks and I/O bottlenecks.
+- Documented key findings, architecture decision records (ADR), and migration steps.
+- Structured reproducible example repository with step-by-step verification commands.
+
+> *Session completed at 09:16:26 UTC*
