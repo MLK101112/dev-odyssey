@@ -1,1 +1,1 @@
-Last updated: 2026-10-17 12:17:00 UTC | Session: Afternoon Coding Sprint (02:00 PM IST) | Track: [Full-Stack & Cloud Architecture] Event-Driven Architecture with Apache Kafka & Event Sourcing
+Last updated: 2026-10-17 16:36:34 UTC | Session: Afternoon Coding Sprint (02:00 PM IST) | Track: [DevOps & Infrastructure] Serverless Microservices with AWS Lambda, EventBridge, and DynamoDB
