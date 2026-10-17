@@ -1,1 +1,1 @@
-Last updated: 2026-10-17 08:42:15 UTC | Session: Morning Study Session (10:00 AM IST) | Track: [AI & Machine Learning] Diffusion Models & Latent Space Generative Representations
+Last updated: 2026-10-17 12:17:00 UTC | Session: Afternoon Coding Sprint (02:00 PM IST) | Track: [Full-Stack & Cloud Architecture] Event-Driven Architecture with Apache Kafka & Event Sourcing
