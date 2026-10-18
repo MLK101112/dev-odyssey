@@ -3314,3 +3314,18 @@
 - Compiled summary takeaways and curated reference resources for future reference.
 
 > *Session completed at 18:40:34 UTC*
+
+---
+
+### 📌 2026-10-18 — Morning Study Session (10:00 AM IST)
+
+- **Domain Track:** `Full-Stack & Cloud Architecture`
+- **Primary Focus:** **Next.js App Router, Server Components & Streaming SSR Architecture**
+
+#### Key Milestones & Takeaways
+- Evaluated tradeoffs between consistency, availability, and partition tolerance.
+- Constructed end-to-end integration test harness simulating network partitions.
+- Cleaned up redundant dependencies, tightened type annotations, and formatted codebase.
+- Outlined actionable next steps for the upcoming technical milestone.
+
+> *Session completed at 08:58:13 UTC*
