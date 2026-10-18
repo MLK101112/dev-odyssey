@@ -1,1 +1,1 @@
-Last updated: 2026-10-18 12:40:31 UTC | Session: Afternoon Coding Sprint (02:00 PM IST) | Track: [DevOps & Infrastructure] Cloud-Native Service Mesh Architecture with Istio & Envoy Proxy
+Last updated: 2026-10-18 16:45:40 UTC | Session: Afternoon Coding Sprint (02:00 PM IST) | Track: [System Design & Algorithms] Distributed Rate Limiting Algorithms (Token Bucket & Leaky Bucket)
