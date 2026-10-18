@@ -3359,3 +3359,18 @@
 - Structured reproducible example repository with step-by-step verification commands.
 
 > *Session completed at 16:45:40 UTC*
+
+---
+
+### 📌 2026-10-18 — Evening Review & Build (07:00 PM IST)
+
+- **Domain Track:** `System Design & Algorithms`
+- **Primary Focus:** **LSM-Tree Storage Engines vs B+ Trees in Modern Key-Value Stores**
+
+#### Key Milestones & Takeaways
+- Evaluated tradeoffs between consistency, availability, and partition tolerance.
+- Constructed end-to-end integration test harness simulating network partitions.
+- Cleaned up redundant dependencies, tightened type annotations, and formatted codebase.
+- Outlined actionable next steps for the upcoming technical milestone.
+
+> *Session completed at 18:44:46 UTC*
