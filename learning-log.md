@@ -3389,3 +3389,18 @@
 - Structured reproducible example repository with step-by-step verification commands.
 
 > *Session completed at 10:07:06 UTC*
+
+---
+
+### 📌 2026-10-19 — Afternoon Coding Sprint (02:00 PM IST)
+
+- **Domain Track:** `System Design & Algorithms`
+- **Primary Focus:** **LSM-Tree Storage Engines vs B+ Trees in Modern Key-Value Stores**
+
+#### Key Milestones & Takeaways
+- Configured environment configurations and automated integration workflows.
+- Conducted profiling session to identify memory leaks and I/O bottlenecks.
+- Documented key findings, architecture decision records (ADR), and migration steps.
+- Structured reproducible example repository with step-by-step verification commands.
+
+> *Session completed at 15:45:03 UTC*
