@@ -1,1 +1,1 @@
-Last updated: 2026-10-20 09:32:47 UTC | Session: Morning Study Session (10:00 AM IST) | Track: [System Design & Algorithms] Distributed Consensus Algorithms (Raft & Paxos Mechanics)
+Last updated: 2026-10-20 13:42:15 UTC | Session: Afternoon Coding Sprint (02:00 PM IST) | Track: [AI & Machine Learning] Fine-tuning Large Language Models with LoRA and QLoRA
