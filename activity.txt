@@ -1,1 +1,1 @@
-Last updated: 2026-10-20 20:03:08 UTC | Session: Evening Review & Build (07:00 PM IST) | Track: [DevOps & Infrastructure] Prometheus Metrics Exporters, Alertmanager & Grafana Dashboarding
+Last updated: 2026-10-21 09:28:37 UTC | Session: Morning Study Session (10:00 AM IST) | Track: [AI & Machine Learning] RAG (Retrieval-Augmented Generation) with Vector DBs & Hybrid Search
