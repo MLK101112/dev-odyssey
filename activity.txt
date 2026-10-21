@@ -1,1 +1,1 @@
-Last updated: 2026-10-21 18:12:37 UTC | Session: Evening Review & Build (07:00 PM IST) | Track: [DevOps & Infrastructure] Docker Multi-Stage Builds, Layer Caching, and Distroless Images
+Last updated: 2026-10-21 20:15:50 UTC | Session: Evening Review & Build (07:00 PM IST) | Track: [System Design & Algorithms] Segment Trees with Lazy Propagation & Range Query Optimizations
