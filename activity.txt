@@ -1,1 +1,1 @@
-Last updated: 2026-10-23 20:00:22 UTC | Session: Evening Review & Build (07:00 PM IST) | Track: [Full-Stack & Cloud Architecture] GraphQL Schema Federation & Apollo Gateway Integration
+Last updated: 2026-10-24 08:59:14 UTC | Session: Morning Study Session (10:00 AM IST) | Track: [System Design & Algorithms] LSM-Tree Storage Engines vs B+ Trees in Modern Key-Value Stores
