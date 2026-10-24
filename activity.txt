@@ -1,1 +1,1 @@
-Last updated: 2026-10-24 08:59:14 UTC | Session: Morning Study Session (10:00 AM IST) | Track: [System Design & Algorithms] LSM-Tree Storage Engines vs B+ Trees in Modern Key-Value Stores
+Last updated: 2026-10-24 12:48:13 UTC | Session: Afternoon Coding Sprint (02:00 PM IST) | Track: [AI & Machine Learning] Deep Reinforcement Learning & Policy Gradient Methods
