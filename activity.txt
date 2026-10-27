@@ -1,1 +1,1 @@
-Last updated: 2026-10-26 21:06:44 UTC | Session: Night Research & Practice (10:00 PM IST) | Track: [AI & Machine Learning] Diffusion Models & Latent Space Generative Representations
+Last updated: 2026-10-27 09:56:09 UTC | Session: Morning Study Session (10:00 AM IST) | Track: [DevOps & Infrastructure] Cloud-Native Service Mesh Architecture with Istio & Envoy Proxy

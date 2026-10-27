@@ -3854,3 +3854,18 @@
 - Benchmarked performance metrics against baseline implementations.
 
 > *Session completed at 21:06:44 UTC*
+
+---
+
+### 📌 2026-10-27 — Morning Study Session (10:00 AM IST)
+
+- **Domain Track:** `DevOps & Infrastructure`
+- **Primary Focus:** **Cloud-Native Service Mesh Architecture with Istio & Envoy Proxy**
+
+#### Key Milestones & Takeaways
+- Evaluated tradeoffs between consistency, availability, and partition tolerance.
+- Constructed end-to-end integration test harness simulating network partitions.
+- Cleaned up redundant dependencies, tightened type annotations, and formatted codebase.
+- Outlined actionable next steps for the upcoming technical milestone.
+
+> *Session completed at 09:56:09 UTC*
