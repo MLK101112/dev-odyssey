@@ -1,1 +1,1 @@
-Last updated: 2026-10-28 10:42:39 UTC | Session: Morning Study Session (10:00 AM IST) | Track: [System Design & Algorithms] Distributed Rate Limiting Algorithms (Token Bucket & Leaky Bucket)
+Last updated: 2026-10-28 15:14:20 UTC | Session: Afternoon Coding Sprint (02:00 PM IST) | Track: [AI & Machine Learning] Diffusion Models & Latent Space Generative Representations
