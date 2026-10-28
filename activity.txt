@@ -1,1 +1,1 @@
-Last updated: 2026-10-27 20:49:34 UTC | Session: Evening Review & Build (07:00 PM IST) | Track: [Full-Stack & Cloud Architecture] Distributed Microservices Design with gRPC and Protocol Buffers
+Last updated: 2026-10-28 10:42:39 UTC | Session: Morning Study Session (10:00 AM IST) | Track: [System Design & Algorithms] Distributed Rate Limiting Algorithms (Token Bucket & Leaky Bucket)
