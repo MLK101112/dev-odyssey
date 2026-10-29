@@ -1,1 +1,1 @@
-Last updated: 2026-10-28 21:13:13 UTC | Session: Night Research & Practice (10:00 PM IST) | Track: [DevOps & Infrastructure] Docker Multi-Stage Builds, Layer Caching, and Distroless Images
+Last updated: 2026-10-29 10:59:57 UTC | Session: Morning Study Session (10:00 AM IST) | Track: [AI & Machine Learning] Graph Neural Networks (GNNs) for Relational Data Modeling
