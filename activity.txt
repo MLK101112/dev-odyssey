@@ -1,1 +1,1 @@
-Last updated: 2026-11-02 22:26:31 UTC | Session: Night Research & Practice (10:00 PM IST) | Track: [System Design & Algorithms] Dynamic Programming on Trees & Advanced Bitmask State Optimization
+Last updated: 2026-11-02 23:38:12 UTC | Session: Night Research & Practice (10:00 PM IST) | Track: [System Design & Algorithms] Advanced Graph Theory: Strongly Connected Components (Tarjan's/Kosaraju's)
