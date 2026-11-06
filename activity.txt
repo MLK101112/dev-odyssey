@@ -1,1 +1,1 @@
-Last updated: 2026-11-06 12:19:14 UTC | Session: Afternoon Coding Sprint (02:00 PM IST) | Track: [Full-Stack & Cloud Architecture] Event-Driven Architecture with Apache Kafka & Event Sourcing
+Last updated: 2026-11-06 16:03:16 UTC | Session: Afternoon Coding Sprint (02:00 PM IST) | Track: [DevOps & Infrastructure] CI/CD Pipeline Security, Ephemeral Runners & Artifact Attestation
