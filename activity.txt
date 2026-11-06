@@ -1,1 +1,1 @@
-Last updated: 2026-11-05 22:09:30 UTC | Session: Night Research & Practice (10:00 PM IST) | Track: [DevOps & Infrastructure] Cloud-Native Service Mesh Architecture with Istio & Envoy Proxy
+Last updated: 2026-11-06 12:19:14 UTC | Session: Afternoon Coding Sprint (02:00 PM IST) | Track: [Full-Stack & Cloud Architecture] Event-Driven Architecture with Apache Kafka & Event Sourcing
