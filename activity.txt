@@ -1,1 +1,1 @@
-Last updated: 2026-11-10 21:51:53 UTC | Session: Night Research & Practice (10:00 PM IST) | Track: [System Design & Algorithms] LSM-Tree Storage Engines vs B+ Trees in Modern Key-Value Stores
+Last updated: 2026-11-11 11:59:27 UTC | Session: Morning Study Session (10:00 AM IST) | Track: [Full-Stack & Cloud Architecture] Distributed Caching Strategies with Redis & Cache Invalidation Patterns
