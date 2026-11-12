@@ -1,1 +1,1 @@
-Last updated: 2026-11-12 16:55:07 UTC | Session: Afternoon Coding Sprint (02:00 PM IST) | Track: [AI & Machine Learning] Convolutional Neural Networks & Computer Vision Feature Extractors
+Last updated: 2026-11-12 21:01:12 UTC | Session: Night Research & Practice (10:00 PM IST) | Track: [Full-Stack & Cloud Architecture] Zero-Trust Cloud Security, IAM Least Privilege, and OAuth2/OIDC

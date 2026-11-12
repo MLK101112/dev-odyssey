@@ -4829,3 +4829,18 @@
 - Structured reproducible example repository with step-by-step verification commands.
 
 > *Session completed at 16:55:07 UTC*
+
+---
+
+### 📌 2026-11-12 — Night Research & Practice (10:00 PM IST)
+
+- **Domain Track:** `Full-Stack & Cloud Architecture`
+- **Primary Focus:** **Zero-Trust Cloud Security, IAM Least Privilege, and OAuth2/OIDC**
+
+#### Key Milestones & Takeaways
+- Configured environment configurations and automated integration workflows.
+- Conducted profiling session to identify memory leaks and I/O bottlenecks.
+- Documented key findings, architecture decision records (ADR), and migration steps.
+- Structured reproducible example repository with step-by-step verification commands.
+
+> *Session completed at 21:01:12 UTC*
