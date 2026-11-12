@@ -1,1 +1,1 @@
-Last updated: 2026-11-12 21:01:12 UTC | Session: Night Research & Practice (10:00 PM IST) | Track: [Full-Stack & Cloud Architecture] Zero-Trust Cloud Security, IAM Least Privilege, and OAuth2/OIDC
+Last updated: 2026-11-12 22:21:06 UTC | Session: Night Research & Practice (10:00 PM IST) | Track: [Full-Stack & Cloud Architecture] Distributed Microservices Design with gRPC and Protocol Buffers
