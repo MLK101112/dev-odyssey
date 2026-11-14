@@ -1,1 +1,1 @@
-Last updated: 2026-11-14 11:39:09 UTC | Session: Morning Study Session (10:00 AM IST) | Track: [AI & Machine Learning] Model Quantization, Pruning, and ONNX Runtime Acceleration
+Last updated: 2026-11-14 15:13:30 UTC | Session: Afternoon Coding Sprint (02:00 PM IST) | Track: [Full-Stack & Cloud Architecture] Zero-Trust Cloud Security, IAM Least Privilege, and OAuth2/OIDC
