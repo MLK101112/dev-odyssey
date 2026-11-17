@@ -1,1 +1,1 @@
-Last updated: 2026-11-17 21:51:55 UTC | Session: Night Research & Practice (10:00 PM IST) | Track: [DevOps & Infrastructure] Kubernetes Operator Pattern & Custom Resource Definitions (CRDs)
+Last updated: 2026-11-17 23:35:34 UTC | Session: Night Research & Practice (10:00 PM IST) | Track: [DevOps & Infrastructure] CI/CD Pipeline Security, Ephemeral Runners & Artifact Attestation
