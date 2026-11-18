@@ -5189,3 +5189,18 @@
 - Outlined actionable next steps for the upcoming technical milestone.
 
 > *Session completed at 17:23:01 UTC*
+
+---
+
+### 📌 2026-11-18 — Night Research & Practice (10:00 PM IST)
+
+- **Domain Track:** `System Design & Algorithms`
+- **Primary Focus:** **LSM-Tree Storage Engines vs B+ Trees in Modern Key-Value Stores**
+
+#### Key Milestones & Takeaways
+- Completed hands-on coding drills exploring multi-threaded and asynchronous patterns.
+- Validated schema migrations and backward compatibility across versions.
+- Optimized algorithmic efficiency from O(N^2) to O(N log N) using tailored data structures.
+- Compiled summary takeaways and curated reference resources for future reference.
+
+> *Session completed at 21:31:44 UTC*
