@@ -5744,3 +5744,18 @@
 - Compiled summary takeaways and curated reference resources for future reference.
 
 > *Session completed at 22:15:35 UTC*
+
+---
+
+### 📌 2026-11-28 — Night Deep-Dive (03:30 AM IST)
+
+- **Domain Track:** `AI & Machine Learning`
+- **Primary Focus:** **Graph Neural Networks (GNNs) for Relational Data Modeling**
+
+#### Key Milestones & Takeaways
+- Configured environment configurations and automated integration workflows.
+- Conducted profiling session to identify memory leaks and I/O bottlenecks.
+- Documented key findings, architecture decision records (ADR), and migration steps.
+- Structured reproducible example repository with step-by-step verification commands.
+
+> *Session completed at 00:08:56 UTC*
